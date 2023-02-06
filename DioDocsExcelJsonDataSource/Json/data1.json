@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "region": "東北",
+      "city": "青森",
+      "category": "果物",
+      "product": "リンゴ",
+      "sales": 90000
+    },
+    {
+      "region": "関東",
+      "city": "東京",
+      "category": "野菜",
+      "product": "大根",
+      "sales": 150000
+    },
+    {
+      "region": "東海",
+      "city": "静岡",
+      "category": "果物",
+      "product": "いちご",
+      "sales": 250000
+    }
+  ]
+}
